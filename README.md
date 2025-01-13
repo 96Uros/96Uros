@@ -11,6 +11,13 @@
 
 - ⚡ Fun fact **Started with programming in 2024 with 0 knowledge.     :)**
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
