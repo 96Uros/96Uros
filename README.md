@@ -11,13 +11,6 @@
 
 - ⚡ Fun fact **Started with programming in 2024 with 0 knowledge.     :)**
 
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
@@ -48,7 +41,6 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
-
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=96uros&show_icons=true&locale=en" alt="96uros" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=96uros&show_icons=true&locale=en&layout=compact" alt="96uros" /></p>
