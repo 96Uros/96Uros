@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uroš</h1>
 <h3 align="center">A passionate developer from Slovenia.</h3>
+<a href="https://uroskukovec.onrender.com">WEBSITE</a>.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=96uros&label=Profile%20views&color=0e75b6&style=flat" alt="96uros" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/96Uros?tab=repositories](https://github.com/96Uros?tab=repositories)
 
-- ⚡ Fun fact **Started with programming in 2024 with 0 knowledge check my <a href="https://uroskukovec.onrender.com">WEBSITE</a>.**
+- ⚡ Fun fact **Started with programming in 2024**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
