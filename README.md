@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uroš</h1>
 <h3 align="center">A passionate developer from Slovenia.</h3>
-<h3 align="center"><a href="https://uroskukovec.onrender.com" style="text-align:center;">WEBSITE</a></h3>
+<h3 align="center"><a href="https://uroskukovec.onrender.com" style="text-align:center;"><WEBSITE></WEBSITE></a></h3>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=96uros&label=Profile%20views&color=0e75b6&style=flat" alt="96uros" /> </p>
