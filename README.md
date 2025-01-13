@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/96Uros?tab=repositories](https://github.com/96Uros?tab=repositories)
 
-- ⚡ Fun fact **Started with programming in 2024 with 0 knowledge check my <a href="https://uroskukovec.onrender.com">Website</a>.**
+- ⚡ Fun fact **Started with programming in 2024 with 0 knowledge check my <a href="https://uroskukovec.onrender.com">WEBSITE</a>.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
