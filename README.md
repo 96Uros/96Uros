@@ -44,7 +44,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=96uros&show_icons=true&locale=en" alt="96uros" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=96uros&show_icons=true&locale=en&layout=compact" alt="96uros" /></p>
-
+<br>
 <a href="https://uroskukovec.onrender.com">Connect</a>
 
 
