@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=96uros" alt="96uros" /></a> </p>
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/96Uros?tab=repositories](https://github.com/96Uros?tab=repositories)
 
 - ⚡ Fun fact **Started with programming in 2024**
@@ -29,12 +28,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=96uros&show_icons=true&locale=en" alt="96uros" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=96uros&show_icons=true&locale=en" alt="96uros" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=96uros&show_icons=true&locale=en&layout=compact" alt="96uros" /></p>
-
-
