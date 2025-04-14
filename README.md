@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=96uros" alt="96uros" /></a> </p>
 
-- 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/96Uros?tab=repositories](https://github.com/96Uros?tab=repositories)
 
